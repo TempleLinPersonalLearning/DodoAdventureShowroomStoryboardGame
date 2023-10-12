@@ -1,0 +1,6 @@
+[preload  storage="./data/bgimage/375756400_1017841072865879_3212255503583651951_n.jpg"  ]
+[preload  storage="./data/bgimage/未命名.png"  ]
+[preload  storage="./data/bgimage/未命名2.png"  ]
+[preload  storage="./data/bgimage/未命名3.png"  ]
+[preload  storage="./data/fgimage/default/未命名5.png"  ]
+[return]

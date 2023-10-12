@@ -1,0 +1,16 @@
+[_tb_system_call storage=system/_preview.ks ]
+
+[mask time=10]
+[bg  time="10"  method="crossfade"  storage="未命名3.png"  ]
+[tb_show_message_window] 
+[chara_show  name="Showgirl"  time="10"  wait="true"  storage="chara/1/未命名4.png"  width="202"  height="523"  ]
+[mask_off time=10]
+[wait  time="1000"  ]
+[tb_image_show  time="1000"  storage="default/未命名5.png"  width="517"  height="326"  x="376"  y="80"  _clickable_img=""  ]
+[quake  time="300"  count="3"  hmax="10"  wait="true"  ]
+[tb_start_text mode=1 ]
+(玩家刷完工作證)[p]
+[_tb_end_text]
+
+[tb_hide_message_window  ]
+[s  ]
