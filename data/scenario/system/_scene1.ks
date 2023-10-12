@@ -2,5 +2,7 @@
 [preload  storage="./data/bgimage/未命名.png"  ]
 [preload  storage="./data/bgimage/未命名2.png"  ]
 [preload  storage="./data/bgimage/未命名3.png"  ]
-[preload  storage="./data/fgimage/default/未命名5.png"  ]
+[preload  storage="./data/bgimage/未命名6.png"  ]
+[preload  storage="./data/fgimage/default/原神啟動手部按鈕圖.jpg"  ]
+[preload  storage="./data/bgimage/原神啟動人物場景圖.jpg"  ]
 [return]
